@@ -1,0 +1,15 @@
+    body {
+        background-image: url(images/Airport-Wallpaper-HD.jpg);
+        background-size: cover;
+        height: 90vh;
+        background-position: center;
+    }
+    
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: right;
+    }
